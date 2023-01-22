@@ -135,7 +135,7 @@ body {
     text-decoration: none;
     color: var(--branco-principal);
     margin: 0 1em;
-    font-size: 16px;
+    font-size: 15px;
 }
 
 .lista__link a:hover {
